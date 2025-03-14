@@ -1,5 +1,5 @@
 {
-    "name": "hari-krishnan-l-b/schedule_monitoring",
+    "name": "hari-krishnan-l-b/schedule-monitoring",
     "description": "Laravel Pulse card that list all scheduled tasks.",
     "license": "MIT",
     "type": "library",
